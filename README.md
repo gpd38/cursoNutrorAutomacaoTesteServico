@@ -1,4 +1,4 @@
-# cursoNutrorAutomacaoTesteServico
+# Curso Nutror Automacao Teste de Serviço
 
 Este projeto foi criado com o propósito de treinar testes de API utilizando o Postman.
 
