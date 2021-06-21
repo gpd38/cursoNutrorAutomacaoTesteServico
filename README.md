@@ -4,7 +4,7 @@ Este projeto foi criado com o propósito de treinar testes de API utilizando o P
 
 <p align="center">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorAutomacaoTesteServico">
-	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/cursoNutrorAutomacaoTesteServico">
+	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/cursoNutrorAutomacaoTesteServico?color=red">
 	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/cursoNutrorAutomacaoTesteServico">
 </p>
 
@@ -21,11 +21,11 @@ Este projeto foi criado com o propósito de treinar testes de API utilizando o P
 
 |||||||
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Aula 01 | Aula 02 | Aula 03 | Aula 04 | Aula 05 | Aula 06 |
+| [Aula 01]() | [Aula 02]() | [Aula 03]() | [Aula 04]() | [Aula 05]() | [Aula 06]() |
 |Postman, GET, Estrutura, Authorization, Environments|Postman, Estrutura, POST|Swagger e configuracao|Configuracao IDE e TDD|Get e RestAssured|Get e validacoes|
-| Aula 07 | Aula 08 | Aula 09 |Aula 10 | Aula 11 | Aula 12 |
+| [Aula 07]() | [Aula 08]() | [Aula 09]() | [Aula 10]() | [Aula 11]() | [Aula 12]() |
 |Inicio Framework|Post, String e Map|Entidades|Massa e Configuracao Cucumber|Gherking e cucumber|Cucumber e relatorio|
-| Aula 07 ||||||
+| [Aula 13]() ||||||
 |CRUD||||||
 |||||||
 
