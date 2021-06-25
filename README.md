@@ -35,11 +35,12 @@ Este projeto foi criado com o propósito de treinar testes de API utilizando o P
 * Java
 * Maven
 * Postman
+* Eclipse
 
 ### Código
 
-|Aula|Link de acesso|
-|----|--------------|
+* [Postman](https://github.com/gpd38/cursoNutrorAutomacaoTesteServico/tree/master/codigo/postman)
+* [Eclipse](https://github.com/gpd38/cursoNutrorAutomacaoTesteServico/tree/master/codigo/eclipse/src/test/java)
 
 ### Autor
 
